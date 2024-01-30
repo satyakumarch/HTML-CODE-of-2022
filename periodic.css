@@ -1,0 +1,67 @@
+ /* body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+} */
+
+ table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    
+} 
+
+td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.a {
+    background-color: orange;
+}
+ 
+ .b {
+    background-color: rgb(6, 242, 80);
+} 
+
+.c {
+    background-color: rgb(245, 9, 9);
+} 
+
+.e {
+    background-color: rgb(13, 185, 232);
+} 
+
+.f {
+    background-color: rgb(24, 77, 199);
+} 
+
+.g {
+    background-color: #cff;
+} 
+
+ .h {
+    background-color:goldenrod;
+} 
+
+  .o {
+    background-color: rgb(255, 239, 221);
+}  
+
+ .x {
+    background-color: rosybrown;
+} 
+
+ .z{
+    background-color: rgb(239, 239, 26);
+} 
+ 
+.s {
+    background-color: rgb(176, 187, 25);
+}  
+.q {
+    background-color: blue;
+} 
+.v {
+    background-color:violet;
+} 
